@@ -1,0 +1,24 @@
+,,,,
+,,,,
+Confirmation Status,(All),,,
+,,,,
+Count of Tests,Column Labels,,,
+Missile Types,Failure,Success,Unknown,Grand Total
+ER Scud,,7,,7
+Musudan,7,1,,8
+Nodong,4,12,,16
+Polaris-1,3,3,,6
+Scud-B,3,7,,10
+Scud-C,,26,1,27
+Taepodong-1,1,,,1
+Unha,2,,,2
+Unha-3,1,2,,3
+Unknown,1,,1,2
+KN-02,,20,,20
+Polaris-2,,2,,2
+Hwasong-12,3,2,1,6
+Scud-C MaRV,,1,,1
+Hwasong-14,,2,,2
+Scud-B MaRV,1,2,,3
+Hwasong-15,,1,,1
+Grand Total,26,88,3,117
